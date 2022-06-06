@@ -8,7 +8,6 @@
 -  以哲学为师! 喜欢研究、深度思考、分享、交流.
 -  [个人博客](https://www.zhihu.com/people/xiao-fan-fan-zhu)
 -  有任何问题可以发邮件,能力以内都会解答!
--  联系邮箱: 755737878@qq.com
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
