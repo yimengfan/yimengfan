@@ -11,4 +11,4 @@
 -  小黄鸭调试群: 184111890 . 你遇到任何问题（生活、情感、代码），请在这个群里用小黄鸭调试法，你可能会得到答案~
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /></div>
