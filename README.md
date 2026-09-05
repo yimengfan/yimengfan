@@ -4,7 +4,6 @@
 -  白天水群(包括工作群)，晚上写码! 全年无休！
 -  以哲学为师! 喜欢研究、深度思考、分享、交流.
 -  [个人博客](https://www.zhihu.com/people/xiao-fan-fan-zhu)
--  有任何问题可以发邮件,能力以内都会解答!  
--  小黄鸭调试群: 184111890 . 你遇到任何问题（生活、情感、代码、职场），请在这个群里用小黄鸭调试法，你可能会得到答案~
+-  有任何问题可以发邮件,看到都会解答!  
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /></div>
